@@ -1,0 +1,13 @@
+{
+  "name": "monorepo",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:vicda164/monorepo.git",
+  "author": "Victor Dannetun",
+  "license": "MIT",
+  "private": true,
+  "dependencies": {
+    "create-react-app": "^3.4.0"
+  },
+  "workspaces": ["project-a", "common"]
+}

@@ -1,0 +1,13 @@
+{
+    "name": "@monorepo/common",
+    "version": "1.0.0",
+    "main": "dist/index",
+    "dependencies": {
+        "@types/jest": "^24.0.0",
+        "@types/node": "^12.0.0",
+        "@types/react": "^16.9.0",
+        "@types/react-dom": "^16.9.0",
+        "react": "^16.13.0",
+        "react-dom": "^16.13.0",
+        "typescript": "^3.8.3"}
+}
